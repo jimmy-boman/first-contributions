@@ -436,6 +436,7 @@ Prajwal was here.
 - [Nathan Hagan](https://github.com/BeastieNate5) *2Best Girl!!!*
 - [Siddharth](https://github.com/51ddh4r7h/) **-__-**
 - [Rizzy](https://github.com/rizkyverandi) **Hey there!!**
+- [Jimbo Nice]
 - [Coson Lu](https://github.com/coson-lu) **hello everyone!**
 - [Mengxian_Li](https://github.com/mengxian-li) **hello**
 - [Tom Brown](https://github.com/Tom-js-python) **Looking to jump into some super cool OpenSource projects on GitHub**
